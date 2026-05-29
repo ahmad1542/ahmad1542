@@ -1,13 +1,19 @@
-# 💫 About Me:
-I'm passionate about building scalable and performant web and desktop applications that solve real-world problems.
+<div align="center">
 
+# Hi, I'm DevAhmadH 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmad.hus.161/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmad.ash.hussein/)
+**I'm passionate about building scalable and performant web and desktop applications that solve real-world problems.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40ahmad1542-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/ahmad1542)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/ahmad1542.svg?variant=secondary&size=sm)](https://github.com/ahmad1542?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/ahmad1542.svg?variant=secondary&size=sm)](https://github.com/ahmad1542?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-12-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/ahmad1542?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Palestine--Tulkarem-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
+</div>
+
+## 🛠️ Skills & Technologies
+
+![C#](https://www.shieldcn.dev/badge/-C%23-512BD4.svg?logo=csharp&variant=branded&size=sm) ![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm) ![PHP](https://www.shieldcn.dev/badge/-PHP-777BB4.svg?logo=php&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm)
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
