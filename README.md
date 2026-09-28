@@ -178,15 +178,20 @@ I am currently deepening my knowledge in:
 
 ---
 
-## GitHub Statistics
+## What You'll Find Here
 
-<div align="center">
+My repositories focus mainly on:
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmad1542&show_icons=true&theme=tokyonight&hide_border=true)
+- **Backend engineering with .NET and ASP.NET Core**
+- **High-performance database-backed systems**
+- **PostgreSQL and SQL Server**
+- **Clean Architecture and maintainable application design**
+- **Dockerized development environments**
+- **Automated testing and CI**
+- **Performance testing and optimization**
+- **TypeScript and Python projects from my software engineering internship**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad1542&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+Most of my recent work is centered around building systems that go beyond CRUD applications and require deeper work in architecture, concurrency, databases, reliability, and performance.
 
 ---
 
